@@ -1,6 +1,6 @@
 # Task Manager
 
-A simple task manager application built using Node.js, Express.js, and EJS (Embedded JavaScript) templates. This project allows users to create, view, and manage tasks efficiently.
+A simple task manager application built using Node.js, Express.js, and EJS (Embedded JavaScript) templates. This project allows users to create, view, and manage tasks efficiently .
 
 ## Features
 
